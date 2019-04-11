@@ -1,0 +1,4 @@
+E:\MyProjects\Jabka\tail\input\input2.txt
+gyll!
+E:\MyProjects\Jabka\tail\input\input3.txt
+ line
