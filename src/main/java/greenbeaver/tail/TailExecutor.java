@@ -14,10 +14,7 @@ class TailExecutor {
     private static final String lineSeparator = System.getProperty("line.separator");
     private static final String END_OF_CONSOLE_INPUT_MARKER = "*END_OF_INPUT*";
 
-    private ArrayList<List<String>> texts;
-    {
-        texts = new ArrayList<>();
-    }
+    private ArrayList<List<String>> texts = new ArrayList<>();
 
     private void getTexts(@Nullable ArrayList<String> inputFileName) throws IOException {
         if (inputFileName != null) {
