@@ -1,4 +1,4 @@
-E:\MyProjects\Jabka\tail\input\input2.txt
+input\input2.txt
 No word can paint the picture
 Of the Queen of all Argyll!
 ***
@@ -9,7 +9,7 @@ All the roses in the garden -
 They bow an ask her pardon,
 For no one could match the beauty
 Of the Queen of all Argyll!
-E:\MyProjects\Jabka\tail\input\input1.txt
+input\input1.txt
 In the land
 Of submarines
 So we sailed
